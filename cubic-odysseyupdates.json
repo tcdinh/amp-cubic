@@ -7,7 +7,7 @@
         "UpdateSourceArgs": "3858450",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
-        "ForceDownloadPlatform": "Windows",
+        "ForceDownloadPlatform": "",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
